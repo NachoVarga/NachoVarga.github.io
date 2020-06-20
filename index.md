@@ -8,3 +8,5 @@ Nacho is a fictional character from the TV series Breaking Bad and Better Call S
 * will do what is required, even when it's painful - for himself
 
 > Croaking a lawyer for no reason is bad business. He goes away, someone's gonna come look for him.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f1/NachoVargaBCS.jpg"/>
